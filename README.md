@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Pranshu1902, a 18 years old self-taught programmer.
 - 👀 I’m interested in AI, ML, Android Development.
-- 🌱 I’m currently learning Deep Computer Science.
+- 🌱 I’m currently learning Data Science.
