@@ -150,5 +150,5 @@
   </a>
 
 
-##👋 Hi, I’m @Pranshu1902, a 19 years old self-taught programmer and full-stack developer.
-## 👨‍💻 My interests are AI, ML, WEB.
+👋 Hi, I’m @Pranshu1902, a 19 years old self-taught programmer and full-stack developer.
+👨‍💻 My interests are AI, ML, WEB.
