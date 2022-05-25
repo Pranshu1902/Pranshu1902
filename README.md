@@ -1,4 +1,4 @@
-![silicon-valley](https://user-images.githubusercontent.com/70687348/170267167-e5e2d511-8b96-457a-a9e8-ffee84065d94.gif)
+![AmbitiousRealBelugawhale-size_restricted](https://user-images.githubusercontent.com/70687348/170268953-efe79c93-de2a-4d88-986b-d8a20edcecad.gif)
 
 
 - 👋 Hi, I’m @Pranshu1902, a 19 years old self-taught programmer.
