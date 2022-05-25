@@ -95,17 +95,22 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
 />
 
-<img
-  width="40"
-  height="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-/>
+<a href="https://github.com/Pranshu1902/">
+  <img
+    width="40"
+    height="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+  />
+</a>
+  
+<a href="https://github.com/Pranshu1902/">
+  <img
+    width="40"
+    height="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+  />
+</a>
 
-<img
-  width="40"
-  height="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-/>
 
 # Social Media
 
