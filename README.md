@@ -10,6 +10,7 @@
   href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css"
 />
 
+#Tech & Tools
 <p float="left">
   <img
     width="40"
@@ -106,19 +107,26 @@
     height="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
   />
-
-  <img
-    width="40"
-    height="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
-  />
-
-  <img
-    width="40"
-    height="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-  />
 </p>
+
+# Social Media
+
+  <a href="https://twitter.com/pranshu1902">
+    <img
+      width="40"
+      height="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/pranshu-aggarwal-4aa8181b4/">
+    <img
+      width="40"
+      height="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    />
+  </a>
+
 
 - 👋 Hi, I’m @Pranshu1902, a 19 years old self-taught programmer.
 - 👀 I’m interested in AI, ML.
