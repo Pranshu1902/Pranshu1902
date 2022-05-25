@@ -4,7 +4,7 @@
   alt="Azure DevOps coverage"
   src="https://img.shields.io/badge/developer-coding-brightgreen"
 />
-
+<br>
 # Tech & Tools
 <a href="https://github.com/Pranshu1902/">
   <img
