@@ -1,5 +1,8 @@
 ![AmbitiousRealBelugawhale-size_restricted](https://user-images.githubusercontent.com/70687348/170268953-efe79c93-de2a-4d88-986b-d8a20edcecad.gif)
 
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
+
 <div style="display:inline-table">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
 
@@ -9,8 +12,8 @@
 
 <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
+<i class="devicon-github-original"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</i>
 <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 
 <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
