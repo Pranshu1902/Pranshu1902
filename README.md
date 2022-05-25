@@ -6,7 +6,7 @@
   href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css"
 />
 
-<div style="display:inline-block" class="p-4 space-x-2">
+<div style="display:inline-table;" class="p-4 space-x-2">
   <img
     width="40"
     height="40"
