@@ -10,8 +10,7 @@
   href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css"
 />
 
-#Tech & Tools
-<p float="left">
+# Tech & Tools
   <img
     width="40"
     height="40"
@@ -107,7 +106,6 @@
     height="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
   />
-</p>
 
 # Social Media
 
