@@ -6,7 +6,7 @@
   href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css"
 />
 
-<div style="display:inline-table;">
+<p float="left">
   <img
     width="40"
     height="40"
@@ -114,7 +114,7 @@
     height="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
   />
-</div>
+</p>
 
 - 👋 Hi, I’m @Pranshu1902, a 19 years old self-taught programmer.
 - 👀 I’m interested in AI, ML.
