@@ -149,12 +149,13 @@
     />
   </a>
 
+<div style="margin-top: 5; margin-bottom: 5;">
 <br>
 👋 Hi, I’m @Pranshu1902, a 19 years old self-taught programmer and full-stack developer.
 <br>
 👨‍💻 My interests are AI, ML, WEB.
-
 <br>
+</div>
 
 ![Screenshot (325)](https://user-images.githubusercontent.com/70687348/170288397-3ce944e4-6eb2-4f1d-989b-f06c7a20ef76.png)
 
