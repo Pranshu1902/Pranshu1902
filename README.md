@@ -1,6 +1,6 @@
 ![AmbitiousRealBelugawhale-size_restricted](https://user-images.githubusercontent.com/70687348/170268953-efe79c93-de2a-4d88-986b-d8a20edcecad.gif)
 
-# Welcome to Pranshu 🚀
+# Hey, I'm Pranshu 🚀
 
 <img
   alt="Azure DevOps coverage"
@@ -141,7 +141,7 @@
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/pranshu-aggarwal-4aa8181b4/">
+  <a href="https://www.linkedin.com/in/pranshu1902/">
     <img
       width="40"
       height="40"
