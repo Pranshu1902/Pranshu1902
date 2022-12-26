@@ -151,7 +151,7 @@
 <br>
 👋 Hi, I’m @Pranshu1902, a 19 years old self-taught programmer and full-stack developer.
 <br>
-👨‍💻 My interests are AI, ML, WEB.
+👨‍💻 My interests are AI, ML, Web Dev.
 <br>
 </div>
 
@@ -160,4 +160,7 @@
 
 ![Screenshot (325)](https://user-images.githubusercontent.com/70687348/170288397-3ce944e4-6eb2-4f1d-989b-f06c7a20ef76.png)
 
-
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranshu1902&show_icons=true&locale=en" alt="arthurfleck1828" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranshu1902&show_icons=true&locale=en&layout=compact" alt="pranshu1902" />
+</div>
