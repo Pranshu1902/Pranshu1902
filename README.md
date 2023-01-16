@@ -5,6 +5,8 @@
   src="https://img.shields.io/badge/developer-coding-brightgreen"
 />
 <br>
+![trophy](https://github-profile-trophy.vercel.app/?username=pranshu1902)
+<br>
 # Tech & Tools
   <a href="https://github.com/Pranshu1902/">
   <img
