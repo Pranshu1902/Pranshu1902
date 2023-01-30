@@ -6,8 +6,8 @@ Full Stack Developer
 
 A 19 years old tech enthusiast and self-taught programmer. I have been learning to code for the past 3 years. Started learning to code as a hobby rather than a career focus. My interests lie in backend development and AI/ML.
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [pranshuaggarwal.me](http://pranshuaggarwal.me)
-* ✉️  You can contact me at [pranshu1902@gmail.com](mailto:pranshu1902@gmail.com)
+* 🖥️  See my portfolio [here](http://pranshuaggarwal.me)
+* ✉️  You can contact me via [email](mailto:pranshu1902@gmail.com)
 * 🤝  I'm open to collaborating on projects that impact lives of billions of people
 
 ### Skills
