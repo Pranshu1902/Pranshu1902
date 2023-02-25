@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Pranshu Aggarwal
 ========================================================================================================================================
 
-Full Stack Developer
---------------------
+## Full Stack Developer
 
 A 20 years old tech enthusiast and self-taught programmer. I have been learning to code for the past 3 years. Started learning to code as a hobby rather than a career focus. My interests lie in backend development and AI/ML.
 * 🌍  I'm based in India
