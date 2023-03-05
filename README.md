@@ -7,7 +7,7 @@ A 20 years old tech enthusiast and self-taught programmer. I have been learning 
 * 🌍  I'm based in India
 * 🖥️  [Portfolio](http://pranshuaggarwal.me)
 * ✉️  Contact me via [email](mailto:pranshu1902@gmail.com)
-* 🤝  Open to collaborating on projects that impact lives of billions of people
+* 🤝  Open to collaborate on projects that impact lives of billions of people
 
 ### Skills
 
