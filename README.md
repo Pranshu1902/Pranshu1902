@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## Full Stack Developer
 
 A 20 years old tech enthusiast and self-taught programmer. I have been learning to code for the past 3 years. Started learning to code as a hobby rather than a career focus. My interests lie in backend development and AI/ML.
-* 🌍  I'm based in India
+* 🌍  Based in India
 * 🖥️  [Portfolio](http://pranshuaggarwal.me)
 * ✉️  Contact me via [email](mailto:pranshu1902@gmail.com)
 * 🤝  Open to collaborate on projects that impact lives of billions of people
