@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## Full Stack Developer
 
+Currently working as a SDE at Zomato
 A tech enthusiast and self-taught programmer. I have been learning to code for the past 3 years. Started learning to code as a hobby rather than a career focus. My interests lie in backend development and AI/ML.
 * 🌍  Based in India
 * 🖥️  [Portfolio](http://pranshuaggarwal.me)
